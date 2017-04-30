@@ -24,10 +24,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: curtisspendlove
 github_username:  curtisspendlove
 
+google_analytics: UA-73704852-1
+
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-squire
-theme: minima
+theme: jekyll-theme-squire
+#theme: minima
 gems:
   - jekyll-sitemap
   - jekyll-feed
