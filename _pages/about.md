@@ -1,5 +1,5 @@
 ---
-layout: default
+permalink: /about/
 ---
 
 <section>
@@ -47,7 +47,6 @@ layout: default
         <a href="http://stackexchange.com/users/8315655/curtis-spendlove"><i class="fa fa-stack-overflow" aria-hidden="true"></i></a>
     </div>
 </section>
-
 
 <!--
 <section>

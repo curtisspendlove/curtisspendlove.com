@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: single
 title:  "Perfection is Iteration"
 date:   2017-04-29
 author: curtis
 description: "perfection is iteration"
+header:
+  image: /assets/images/snowy-mountains.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories: article
 tags:
     - lifestyle
